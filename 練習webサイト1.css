@@ -2,6 +2,7 @@ body {
   background-image: url("宝ヶ池鴨.jpg");
   background-size: cover;
   background-repeat: none
+  height: 4912px;
 }
 
 .container {
